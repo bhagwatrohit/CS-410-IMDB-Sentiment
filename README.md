@@ -3,10 +3,15 @@ CS 410 Project
 
 Installation and Execution
 1.	Install the following libraries – 
+
 pip install scrapy
+
 pip install beautifulsoup4
+
 pip install sklearn
+
 pip insall joblib
+
 pip install pickle
 
 2.	The model has already been trained using sample data - http://ai.stanford.edu/~amaas/data/sentiment/
